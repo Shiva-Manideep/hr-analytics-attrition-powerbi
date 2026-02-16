@@ -27,8 +27,12 @@ This project analyzes HR data to understand employee attrition patterns and work
 - Average Performance Rating
 - Department-wise Attrition
 
-## 📈 Dashboard Output
-![HR Dashboard](output/hr_dashboard.png)
+## 📊 Dashboard Output
+
+![](hrdashboard.png)
+
+![](hrdashboard1.png)
+
 
 ## 🤖 AI Usage
 - Power BI Q&A for natural language queries
